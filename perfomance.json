@@ -1,0 +1,11 @@
+{
+    "perfomances": [
+        {"perfomance" : "Фантастичне IT і як туди потрапити", "speaker" : "Zenoviy Veres", "date" : "09.04" },
+        {"perfomance" : "ДевОпс і приборкувачі хмар", "speaker" : "Ivan Lavriv", "date" : "14.04" },
+        {"perfomance" : "Веб-програмування", "speaker" : "Ivan Lavriv", "date" : "14.04" },
+        {"perfomance" : "Product manager VS Project manager", "speaker" : "Mariya Shevchenko", "date" : "15.04" },
+        {"perfomance" : "Введення у роботу з Python", "speaker" : "Oleksiy Vyshnevskiy", "date" : "21.04" },
+        {"perfomance" : "Бізнес-аналітики та бізнес-аналітикині", "speaker" : "Halyna Trec", "date" : "30.04" },
+        {"perfomance" : "Python на практиці", "speaker" : "Zenoviy Veres", "date" : "30.04" }
+    ]
+}
